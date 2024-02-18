@@ -25,5 +25,5 @@
 - Telemetry-free, unlike Windows Calculator ✔
 
 ## If you would like to know more, check out these links :
-### [Wiki]
-### [Releases]
+### [Wiki](https://github.com/2606bih/LiteMath/wiki)
+### [Releases](https://github.com/2606bih/LiteMath/tags)
