@@ -24,6 +24,6 @@
 - Faster, uses _up to_ 5x times less memory! ✔
 - Telemetry-free, unlike Windows Calculator ✔
 
-### If you would like to know more, check out these links :
-[Wiki]
-[Releases]
+## If you would like to know more, check out these links :
+### [Wiki]
+### [Releases]
