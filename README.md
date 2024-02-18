@@ -12,12 +12,12 @@
 </p>
 
 ### Here's why LiteMath is great:  <img align="right" src="https://github.com/2606bih/LiteMath/assets/142507461/57085c2f-6f38-4087-9a11-e518886a0bee"> 
-- Intuitive and simple User interface ✔
-- Fast and efficient ✔
-- No telemetry or keylogging ✔
-- Runs on anything ✔
-- Support for older builds of Windows* ✔
-- Very small installation ( >1MiB ) ✔
+- 🎮 Intuitive and simple User interface ✔
+- ⚡ Fast and efficient ✔
+- 🕵️‍♀️ No telemetry or keylogging ✔
+- 🖥 Runs on anything ✔
+- 💾 Support for older builds of Windows* ✔
+- 👜 Very small installation ( >1MiB ) ✔
 
 ### Here's why it's better than Windows* Calculator:
 - Simpler, meaning less hassle figuring things out. ✔
