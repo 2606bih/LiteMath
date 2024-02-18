@@ -1,2 +1,2 @@
 # LiteMath
-A free, open-source calculator for Windows* written in C++
+A free calculator for Windows* written in C++
